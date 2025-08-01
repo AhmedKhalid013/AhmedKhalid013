@@ -5,13 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkhalid013&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkhalid013" /> </p>
 
 
-- 🔭 I’m currently working on **React Application**
+- 🎓 I’m a Computer Science graduate passionate about building scalable and user-friendly web applications
+  
+- 🚀 I love exploring new technologies and solving real-world problems through code
+  
+- 👯 I’m open to collaborating on meaningful tech projects with creative teams
+  
+- 🤝 I’m looking to connect with developers and mentors in the software community
 
-- 👯 I’m looking to collaborate on **React Projects**
-
-- 🤝 I’m looking for help with **ReactJs**
-
-- 💬 Ask me about **ReactJs, C++, Web Debelopment**
+- 🌱 Currently diving deeper into **TypeScript**, **Next.js**, and web performance optimization
+  
+- ⚡ Fun fact: I stay cool under pressure — bugs don’t scare me, they challenge me 💻🔥
 
 - 📫 How to reach me **ahmedkhalid013@gmail.com**
 
