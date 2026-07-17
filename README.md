@@ -14,8 +14,6 @@
 - 🤝 I’m looking to connect with developers and mentors in the software community
 
 - 🌱 Currently diving deeper into **TypeScript**, **Next.js**, and web performance optimization
-  
-- ⚡ Fun fact: I stay cool under pressure — bugs don’t scare me, they challenge me 💻🔥
 
 - 📫 How to reach me **ahmedkhalid013@gmail.com**
 
