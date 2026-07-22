@@ -122,15 +122,7 @@
 <img src="https://img.shields.io/badge/Thunder_Client-6C2BD9?style=for-the-badge"/>
 </p>
 
-### 📐 Modeling & Documentation
 
-<p align="center">
-<img src="https://img.shields.io/badge/Edraw_Max-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black"/>
-</p>
-```
 
 ---
 
