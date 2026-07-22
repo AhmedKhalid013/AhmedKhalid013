@@ -61,10 +61,18 @@
 
 ---
 
-## 🐍 Contribution Graph & Activity
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmedKhalid013/AhmedKhalid013/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedkhalid013&theme=tokyo-night" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
