@@ -61,7 +61,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Graph & Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmedKhalid013/AhmedKhalid013/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
@@ -69,27 +69,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Commits
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedkhalid013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid013&layout=compact&theme=tokyonight&hide=c++"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhalid013&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhalid013&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/AhmedKhalid013" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/AhmedKhalid013" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-Fi" height="45" />
-  </a>
 </p>
