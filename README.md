@@ -75,15 +75,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedKhalid013&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AhmedKhalid013/AhmedKhalid013/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 # 💻 Coding Activity
 
