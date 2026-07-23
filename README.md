@@ -35,11 +35,10 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in full-stack web application development across JavaScript and .NET ecosystems. With an **MS in Computer Science (CGPA: 3.58)** and industry experience building enterprise web tools, AI-powered automation pipelines, and scalable APIs, I focus on writing clean, performant, and maintainable code.
+I am a Software Engineer specializing in full-stack web application development across JavaScript and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelines, and scalable APIs, I focus on writing clean, performant, and maintainable code.
 
-* 🔭 Currently working as a **Software Engineer at 2BVision** (React, ASP.NET MVC, C#).
-* 🎓 Hold an **MS in Computer Science** from **FAST NUCES Lahore**.
-* 🧠 Passionate about **System Design**, **AI/LLM Integration**, and **Vector Databases**.
+* 🔭 Currently focused on designing and developing full-stack systems, robust APIs, and modern web applications.
+* 🧠 Continuously learning advanced System Design, distributed systems, and modern tech stacks.
 * 📄 Published researcher in IEEE and international CS journals.
 * 🤝 Open to Open Source collaborations and exciting engineering challenges.
 
