@@ -1,129 +1,154 @@
-this is my cv
-Ahmed Khalid
-Software Engineer
+<!-- ==================== HERO ==================== -->
 
-Address: Manga Mandi, Lahore, Punjab Email: ahmedkhalid013@gmail.com
-LinkedIn: https://www.linkedin.com/in/iahmedkhalid Phone No:0300-9492079
-Github: https://github.com/ahmedKhalid013/
-About Me
-I am a Software Engineer with experience in full-stack web development, working across both frontend and backend systems. I have worked
-with modern JavaScript technologies such as React, Next.js, TypeScript, and Node.js, as well as backend frameworks including ASP.NET MVC.I
-have experience building scalable web applications, integrating RESTful APIs, and working with both SQL and NoSQL databases. I am familiar
-with software design principles such as OOP, MVC architecture, and clean code practices. I am comfortable working in team environments as
-well as independently, and I focus on writing clean, maintainable, and scalable code.
-Work Experience
-1. Software Engineer at 2BVision. January 2026 – Present
-Roles and Responsibilities
-• Working as a full-stack software engineer on web application development and maintenance projects.
-• Developing frontend features using React.
-• Implementing backend functionality using ASP.NET MVC and C#.
-• Applying layered architecture (Controller, Service, Repository) and using DTOs for data transfer between layers.
-• Working with Entity Framework and LINQ to perform database operations.
-• Following OOP principles and MVC design patterns in application development.
-• Assisting in authentication and authorization using JWT and cookies.
-• Debugging, testing, and improving application performance.
-• Collaborating with team members in an Agile development environment.
-2. Software Engineer at BrandSurge. December 2024 – December 2025
-Roles and Responsibilities
-• Worked on the development and maintenance of web-based applications.
-• Built and deployed scalable full-stack web applications using modern JavaScript frameworks and backend services.
-• Collaborated with team members to analyze requirements and implement solutions.
-• Participated in the complete web development lifecycle, from design to deployment.
-• Collaborated with team members to deliver features on time.
-• Followed best practices for code quality, security, and maintainability.
-• Supported testing and production deployment of web applications.
-3. Lab Instructor at Fast NUCES Lahore. August 2023 - November 2024
-Roles and Responsibilities
-• Conduct lab sessionsto reinforce C++ programming concepts taught in lectures.
-• Prepare and explain C++ programming exercises, assignments, and projects.
-• Guide studentsin writing, debugging, and optimizing C++ code.
-• Assiststudents in understanding OOP concepts like classes, inheritance, polymorphism, etc.
-• Review and evaluate students' code for correctness, efficiency, and style.
-Skills
-Programming: C++. C#. Python. JavaScript. Typescript
-Web/App: NextJs. ReactJs. NodeJs. RESTful APIs. Bootstrap. HTML5. CSS3. Tailwind CSS.
-Databases: MongoDB, SQL, MS SQL Server, Pinecone (Vector Database)
-Architecture: MVC, REST APIs, OOP Principles, Clean Code Practices, Layered Architecture, DTO (Data Transfer
-Objects)
-ORM: Entity Framework, LINQ
-API Handling: REST APIs, Axios (interceptors, error handling)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Ahmed%20Khalid&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&animation=fadeIn"/>
+</p>
 
-Authentication: JWT, Bearer Token-based authentication
-AI & Machine Learning Integration: AI API’s (models & embeddings), Data Processing, Web Scraping
-Development & IDEs: VS Code, Visual Studio, Vite, Jupyter Notebook, Cursor, IntelliJ IDEA
-Version Control and Collaboration: Git, GitHub
-Deployment & Hosting: Vercel, Render, Netlify
-API & Testing Tools: Postman, Thunder Client
-Process & System Modeling Tools: Edraw Max, Microsoft Visio, PowerPoint/Google Slides
-Projects
-1. GMC Title Optimizer - BrandSurge
-• Built a serverless Next.js/TypeScript API to automatically optimize e-commerce product titles, enhancing search
-visibility and Google Merchant Center compliance.
-• Processes bulk Excel uploads with hundreds of product entries; extracts product attributes via Shopify JSON API
-and Cheerio HTML fallback for reliability.
-• Designed a hybrid optimization pipeline combining rule-based logic with GPT-4o-mini for high-quality title
-generation.
-• Ensured strict Google Merchant Center compliance: title length, structured formatting, standardized material
-mapping, and brand deduplication.
-• Handled special cases for apparel types, applying business-specific style/material rules.
-• Tech Stack: Next.js, TypeScript, OpenAI API, Cheerio, SheetJS (XLSX), Vercel.
-2. Resume Screening System - BrandSurge
-• Developed a full-stack AI-powered Resume Screening System to streamline candidate evaluation and hiring
-efficiency.
-• Integrated OpenAI API for text embeddings and GPT-based evaluation, Pinecone vector database for fast
-semantic similarity search, and MongoDB for persistent storage of parsed candidate data (personal info,
-experience, education, extracted text).
-• Implemented PDF resume upload and secure storage, with automatic text extraction and parsing for structured
-candidate information.
-• Designed semantic similarity search using Pinecone vector database, enabling fast and relevant candidate-job
-matching.
-• Integrated OpenAI GPT models for scoring, reasoning, and ranking candidates, providing transparent AI-driven
-evaluations.
-• Added category-based filtering for precise search results and improved recruiter productivity.
-• Built secure PDF resume pipeline with Cloudinary for cloud storage/hosting and direct download links.
-• Applied softwares best practices including environment variable management, error handling, rate limiting.
-• Tech Stack: Python, Flask, ReactJS, MongoDB, Pinecone, OpenAI API, Cloudinary, Render.
-3. Weather Web App (https://ak-i-weatherapp.netlify.app/)
-• Developed a real-time weather forecasting web application that retrieves and displays current weather
-conditions and temperature using a RESTful API.
-• Implemented location-based search functionality to dynamically fetch weather data based on user input.
-• Designed a clean, responsive user interface to ensure consistent user experience across devices.
-• Integrated asynchronous API calls with proper data handling and basic error management.
-• Tech Stack: ReactJS, Tailwind CSS, Vite, RESTful APIs, HTML, CSS, Bootstrap, JavaScript.
-4. InfoCentral WebApp
-• Developed a responsive news web application using React with RESTful API integration to dynamically fetch
-the latest news headlines.
-• Implemented category- and country-based filtering to display relevant news content.
-• Added infinite scrolling for seamless content loading and improved user experience.
-• Displayed clean article previews including images, author names, and source information.
-• Tech Stack: ReactJs, JavaScript, RESTful APIs, Tailwind CSS, HTML, CSS, Bootstrap.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+@+2BVision;React+%7C+Next.js+%7C+ASP.NET+MVC+%7C+Node.js;AI+Integration+%7C+Vector+Databases+%7C+System+Design;MS+in+Computer+Science+%E2%80%A2+Published+Researcher"/>
+</p>
 
-5. I-TextWebApp ( https://ak-i-textwebapp.netlify.app/)
-• Developed a modern web application, designed for efficient text editing, formatting, and real-time analysis.
-• Designed a user-friendly interface with dark mode support to enhance accessibility and user experience.
-• Implemented interactive features for live text updates and formatting controls, ensuring smooth usability
-across devices.
-• Tech Stack: ReactJS, JavaScript, Bootstrap, HTML, Tailwind CSS.
+<p align="center">
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
+</p>
 
-Publications
-1. Khalid A, Rehman RA, Kim BS. Caching Strategiesin NDN Based Wireless AdHoc Network: A Survey. Computers,
-Materials & Continua. 2024 Jul 1;80(1).
-2. KhalidA, Rehman RA, Kim BS. RFSNU: Reliable Forwarding Strategy inNDN based UWSN. In2024 IEEE Canadian
-Conference on Electrical and Computer Engineering (CCECE) 2024 Aug 6 (pp. 724-729). IEEE.
+<p align="center">
+  <a href="https://linkedin.com/in/iahmedkhalid">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedkhalid013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ahmedKhalid013/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/10340623">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+</p>
 
-Education
-FAST NUCES Lahore
-MS (Computer Science) CGPA: 3.58
-● Have studied more advanced Core programming subjects like Applied Programming, Advanced Operating
-Systems, Advanced Analysis of Algorithms, Advanced Computer Networks, Theory of Programming
-Languages, Research Methodology, Internet of Things, Graph Algorithms, and Computational
-Intelligence etc.
-University of Sargodha
-BS (Information Technology) CGPA: 3.51
-● Have studied core programming subjects like Fundamentals, OOP, Data Structures, Operating Systems,
-Algorithms, Database Systems, Database Administration and Management, Software Engineering, Artificial
-Intelligence, Computer Networks, and Mobile Application Development etc.
-References
-Associate Prof. Dr. Rana Asif Rehman (Muscat University Oman)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB"/>
+</p>
 
-now give me full updated readme professional
+---
+
+## 👨‍💻 About Me
+
+I am a **Software Engineer** specializing in full-stack web application development across JavaScript and .NET ecosystems. With an **MS in Computer Science (CGPA: 3.58)** and industry experience building enterprise web tools, AI-powered automation pipelines, and scalable APIs, I focus on writing clean, performant, and maintainable code.
+
+* 🔭 Currently working as a **Software Engineer at 2BVision** (React, ASP.NET MVC, C#).
+* 🎓 Hold an **MS in Computer Science** from **FAST NUCES Lahore**.
+* 🧠 Passionate about **System Design**, **AI/LLM Integration**, and **Vector Databases**.
+* 📄 Published researcher in IEEE and international CS journals.
+* 🤝 Open to Open Source collaborations and exciting engineering challenges.
+
+---
+
+## 💼 Work Experience
+
+* **Software Engineer** @ **2BVision** *(Jan 2026 – Present)*
+  * Full-stack web development using **React**, **ASP.NET MVC**, and **C#**.
+  * Implementing layered architecture (Controller, Service, Repository) with **Entity Framework**, **LINQ**, and **JWT authentication**.
+* **Software Engineer** @ **BrandSurge** *(Dec 2024 – Dec 2025)*
+  * Built AI-driven e-commerce automation tools and vector search systems using **Next.js**, **Python (Flask)**, **Pinecone**, and **OpenAI APIs**.
+* **Lab Instructor** @ **FAST NUCES Lahore** *(Aug 2023 – Nov 2024)*
+  * Conducted lab sessions and evaluated OOP, Data Structures, and C++ concepts for undergraduate CS students.
+
+---
+
+## 🚀 Key Projects
+
+### 🛠️ [GMC Title Optimizer](https://github.com/ahmedKhalid013/)
+> **Tech Stack:** Next.js, TypeScript, OpenAI API, Cheerio, SheetJS, Vercel
+* Developed a serverless API pipeline processing bulk Excel uploads to extract e-commerce product metadata and auto-generate Google Merchant Center compliant titles using GPT-4o-mini and custom logic.
+
+### 🤖 [AI Resume Screening System](https://github.com/ahmedKhalid013/)
+> **Tech Stack:** Python, Flask, ReactJS, MongoDB, Pinecone, OpenAI Embeddings, Cloudinary
+* Built a semantic search candidate-matching engine using **Pinecone vector embeddings**, parsing PDF resumes and scoring talent using GPT models with category-based filtering.
+
+### 🌤️ [Real-Time Weather Web App](https://ak-i-weatherapp.netlify.app/)
+> **Tech Stack:** ReactJS, Tailwind CSS, Vite, REST APIs
+* Live interactive weather forecasting application featuring dynamic location-based search and responsive interface design. **[Live Demo](https://ak-i-weatherapp.netlify.app/)**
+
+### ✍️ [I-Text Web App](https://ak-i-textwebapp.netlify.app/)
+> **Tech Stack:** ReactJS, JavaScript, Bootstrap, Tailwind CSS
+* Utility app built for real-time text editing, dynamic formatting, word counting, and accessibility features like dark mode. **[Live Demo](https://ak-i-textwebapp.netlify.app/)**
+
+---
+
+## 🔬 Publications
+
+1. **Khalid A**, Rehman RA, Kim BS. *"Caching Strategies in NDN Based Wireless AdHoc Network: A Survey."* **Computers, Materials & Continua**, 2024.
+2. **Khalid A**, Rehman RA, Kim BS. *"RFSNU: Reliable Forwarding Strategy in NDN based UWSN."* **IEEE CCECE**, 2024.
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</details>
+
+<details open>
+<summary><b>Frameworks & Web</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</details>
+
+<details open>
+<summary><b>Databases & AI Integration</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Pinecone Vector DB](https://img.shields.io/badge/Pinecone-16A085?style=for-the-badge&logoColor=white)
+![OpenAI APIs](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+</details>
+
+<details open>
+<summary><b>Tools, ORM & Deployment</b></summary>
+<br/>
+
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</details>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhalid013&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedKhalid013&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building software that solves real-world problems, one commit at a time."</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED"/>
+</p>
