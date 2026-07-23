@@ -45,45 +45,6 @@ I am a **Software Engineer** specializing in full-stack web application developm
 
 ---
 
-## 💼 Work Experience
-
-* **Software Engineer** @ **2BVision** *(Jan 2026 – Present)*
-  * Full-stack web development using **React**, **ASP.NET MVC**, and **C#**.
-  * Implementing layered architecture (Controller, Service, Repository) with **Entity Framework**, **LINQ**, and **JWT authentication**.
-* **Software Engineer** @ **BrandSurge** *(Dec 2024 – Dec 2025)*
-  * Built AI-driven e-commerce automation tools and vector search systems using **Next.js**, **Python (Flask)**, **Pinecone**, and **OpenAI APIs**.
-* **Lab Instructor** @ **FAST NUCES Lahore** *(Aug 2023 – Nov 2024)*
-  * Conducted lab sessions and evaluated OOP, Data Structures, and C++ concepts for undergraduate CS students.
-
----
-
-## 🚀 Key Projects
-
-### 🛠️ [GMC Title Optimizer](https://github.com/ahmedKhalid013/)
-> **Tech Stack:** Next.js, TypeScript, OpenAI API, Cheerio, SheetJS, Vercel
-* Developed a serverless API pipeline processing bulk Excel uploads to extract e-commerce product metadata and auto-generate Google Merchant Center compliant titles using GPT-4o-mini and custom logic.
-
-### 🤖 [AI Resume Screening System](https://github.com/ahmedKhalid013/)
-> **Tech Stack:** Python, Flask, ReactJS, MongoDB, Pinecone, OpenAI Embeddings, Cloudinary
-* Built a semantic search candidate-matching engine using **Pinecone vector embeddings**, parsing PDF resumes and scoring talent using GPT models with category-based filtering.
-
-### 🌤️ [Real-Time Weather Web App](https://ak-i-weatherapp.netlify.app/)
-> **Tech Stack:** ReactJS, Tailwind CSS, Vite, REST APIs
-* Live interactive weather forecasting application featuring dynamic location-based search and responsive interface design. **[Live Demo](https://ak-i-weatherapp.netlify.app/)**
-
-### ✍️ [I-Text Web App](https://ak-i-textwebapp.netlify.app/)
-> **Tech Stack:** ReactJS, JavaScript, Bootstrap, Tailwind CSS
-* Utility app built for real-time text editing, dynamic formatting, word counting, and accessibility features like dark mode. **[Live Demo](https://ak-i-textwebapp.netlify.app/)**
-
----
-
-## 🔬 Publications
-
-1. **Khalid A**, Rehman RA, Kim BS. *"Caching Strategies in NDN Based Wireless AdHoc Network: A Survey."* **Computers, Materials & Continua**, 2024.
-2. **Khalid A**, Rehman RA, Kim BS. *"RFSNU: Reliable Forwarding Strategy in NDN based UWSN."* **IEEE CCECE**, 2024.
-
----
-
 ## 🛠️ Tech Stack
 
 <details open>
