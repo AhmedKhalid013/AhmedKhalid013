@@ -1,11 +1,11 @@
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Ahmed%20Khalid&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Ahmed%20Khalid&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&animation=fadeIn" alt="Ahmed Khalid Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+MVC+%7C+Node.js;Building+Scalable+Full-Stack+Systems;AI+Integration+%7C+Vector+Databases+%7C+System+Design;Always+Learning+%26+Building+Something+New"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+MVC+%7C+Node.js;Building+Scalable+Full-Stack+Systems;AI+Integration+%7C+Vector+Databases+%7C+System+Design;Always+Learning+%26+Building+Something+New" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -14,21 +14,21 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/iahmedkhalid">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ahmedkhalid013@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/ahmedKhalid013/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://stackoverflow.com/users/10340623">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB"/>
+  <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB" alt="Profile Views"/>
 </p>
 
 ---
@@ -37,10 +37,10 @@
 
 I am a Software Engineer specializing in full-stack web application development across JavaScript and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelines, and scalable APIs, I focus on writing clean, performant, and maintainable code.
 
-* 🔭 Currently focused on designing and developing full-stack systems, robust APIs, and modern web applications.
-* 🧠 Continuously learning advanced System Design, distributed systems, and modern tech stacks.
-* 📄 Published researcher in IEEE and international CS journals.
-* 🤝 Open to Open Source collaborations and exciting engineering challenges.
+* 🔭 **Currently Focusing On:** Designing and developing full-stack systems, robust APIs, and modern web applications.
+* 🧠 **Learning & Growth:** Continuously refining advanced System Design, distributed architectures, and AI patterns.
+* 📄 **Research:** Published researcher in IEEE and international CS journals.
+* 🤝 **Collaboration:** Open to Open Source contributions and high-impact engineering projects.
 
 ---
 
@@ -52,7 +52,7 @@ I am a Software Engineer specializing in full-stack web application development 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </details>
@@ -75,15 +75,15 @@ I am a Software Engineer specializing in full-stack web application development 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Pinecone Vector DB](https://img.shields.io/badge/Pinecone-16A085?style=for-the-badge&logoColor=white)
-![OpenAI APIs](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 </details>
 
 <details open>
-<summary><b>Tools, ORM & Deployment</b></summary>
+<summary><b>Tools, ORMs & Deployment</b></summary>
 <br/>
 
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -95,12 +95,12 @@ I am a Software Engineer specializing in full-stack web application development 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhalid013&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhalid013&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedKhalid013&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedKhalid013&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -110,5 +110,5 @@ I am a Software Engineer specializing in full-stack web application development 
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED" alt="Footer Banner"/>
 </p>
