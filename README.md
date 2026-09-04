@@ -1,35 +1,34 @@
-
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Ahmed%20Khalid&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&animation=fadeIn" alt="Ahmed Khalid Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Ahmed%20Khalid&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&animation=fadeIn" alt="Ahmed Khalid Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+MVC+%7C+Node.js;Building+Scalable+Full-Stack+Systems;AI+Integration+%7C+Vector+Databases+%7C+System+Design;Always+Learning+%26+Building+Something+New" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+MVC+%7C+Node.js;Building+Scalable+Full-Stack+Systems;AI+Integration+%7C+Vector+Databases+%7C+System+Design;Always+Learning+%26+Building+Something+New" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/iahmedkhalid">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ahmedkhalid013@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/ahmedKhalid013/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://stackoverflow.com/users/10340623">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
-  </a>
+  <a href="https://linkedin.com/in/iahmedkhalid">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmedkhalid013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/ahmedKhalid013/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://stackoverflow.com/users/10340623">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB" alt="Profile Views"/>
 </p>
 
 ---
@@ -84,10 +83,6 @@ I am a Software Engineer specializing in full-stack web application development 
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-FA0050?style=for-the-badge&logo=weaviate&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-E84A5F?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -113,20 +108,22 @@ I am a Software Engineer specializing in full-stack web application development 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhalid013&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhalid013&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedKhalid013&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedKhalid013&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building software that solves real-world problems, one commit at a time."</i>
+  <i>"Building software that solves real-world problems, one commit at a time."</i>
 </p>
 
+this is my github readme
+just tell em what could we add more speically in badges
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED" alt="Footer Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED" alt="Footer Banner"/>
 </p>
