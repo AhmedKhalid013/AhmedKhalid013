@@ -1,4 +1,3 @@
-
 <!-- ==================== HERO ==================== -->
 
 <p align="center">
@@ -94,6 +93,7 @@ I am a Software Engineer specializing in full-stack web application development 
 <summary><b>Tools, ORMs & Architecture</b></summary>
 <br/>
 
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
