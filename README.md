@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, andddddddddd AI integrations.</b>
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, andddddddd AI integrations.</b>
 </p>
 
 <p align="center">
