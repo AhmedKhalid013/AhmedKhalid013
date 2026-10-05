@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Softwareeeeeeeeeeeeeee Engineerrrrrrrrrrrrr with expertise in moderrrrrrrrrrrrrrrrrrrrn full-stack web applications, scalable backend systems, and AI integrrrrrrrrrrrrrrrrrrrrrrrrations.</b>
+  <b>Softwareeeeeeeeeeeeeee Engineerrrrrrrr with expertise in moderrrrrrrrrrrrrrrrrrrrn full-stack web applications, scalable backend systems, and AI integrrrrrrrrrrrrrrrrrrrrrrrrations.</b>
 </p>
 
 <p align="center">
