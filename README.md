@@ -47,7 +47,7 @@ I am a Software Engineer specializing in full-stack web application development 
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>Languages & Core</b></summary>
+<summary><b>Languageeeeees & Core</b></summary>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
