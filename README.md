@@ -60,7 +60,7 @@ I am a Software Engineer specializing in full-stack web application development 
 </details>
 
 <details open>
-<summary><b>Frameworks & Web</b></summary>
+<summary><b>Frameworkssssss & Web</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
