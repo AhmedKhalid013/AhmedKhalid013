@@ -76,7 +76,7 @@ I am a Software Engineer specializing in full-stack web application development 
 </details>
 
 <details open>
-<summary><b>Databassssssses & AI Iiiiiiiiintegration</b></summary>
+<summary><b>Databassssssses & AIiiiiiiiii Iiiiiiiiintegration</b></summary>
 <br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
