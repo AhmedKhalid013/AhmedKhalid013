@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Meeeeee
 
-I am a Software Engineer specializing in full-stack web application development across JavaScript and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelines, and scalable APIs, I focus on writing clean, performant, and maintainable code.
+Iiiiiiiiii am a Software Engineer specializing in full-stack web application development across JavaScript and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelines, and scalable APIs, I focus on writing clean, performant, and maintainable code.
 
 * 🔭 **Currently Focusing On:** Designingggggggg and developing full-stack systems, robust APIs, and modern web applications.
 * 🧠 **Learning & Growth:** Continuously refining advanced System Design, distributed architectures, and AI patterns.
