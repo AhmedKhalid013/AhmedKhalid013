@@ -111,7 +111,7 @@ I am a Software Engineer specializing in full-stack web application development 
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analyticssssssss
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
