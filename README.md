@@ -90,7 +90,7 @@ Iiiiiiiiii am a Software Engineer specializing in full-stack web application dev
 </details>
 
 <details open>
-<summary><b>Toooooooools, ORMs & Architecturrrrrrrrrre</b></summary>
+<summary><b>Toooooooools, OoooooRMs & Architecturrrrrrrrrre</b></summary>
 <br/>
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -111,7 +111,7 @@ Iiiiiiiiii am a Software Engineer specializing in full-stack web application dev
 
 ---
 
-## 📈 GitHub Analyticssssssss
+## 📈 GitHuuuuub Analyticssssssss
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
