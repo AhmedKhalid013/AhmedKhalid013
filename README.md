@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer wwwwwwwwwith eeeeeeeeexpertise iiiiiiiiiin mmmmmmmmmodern full-sttttttttttack wwwwwwwwwwweb applicationsssssssssssssss, scalable bbbbbbbbbackend ssssssssssssystems, and AAAAAAAAAAAI integrations.</b>
+  <b>Software Engineer wwwwwwwwwith eeeeeeeeexpertise iiiiiiiiiin mmmmmmmmmodern full-sttttttttttack wwwwwwwwwwweb applicationsssssssssssssss, scalable bbbbbbbbbackend ssssssssssssystems, and AI integrations.</b>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Iiiiiiiiii am aaaaaaaaa Software Engineer sssssssspecializing in full-stack web 
 * 🔭 **Currently Focusing On:** Designingggggggg and developing full-stack systems, robust APIs, and modern web applications.
 * 🧠 **Learning & Growth:** Continuously refining advanced System Designnnnnnnnnnn, distributed architectures, and AI patterns.
 * 📄 **Research:** Published researcher in IEEEEEEEEEEEE and international CS journals.
-* 🤝 **Collaboration:** Open to Open Source contributions and high-impact engineering projectssssssss.
+* 🤝 **Collaboration:** Open to Oppppppen Source contributions and high-impact engineering projectssssssss.
 
 ---
 
