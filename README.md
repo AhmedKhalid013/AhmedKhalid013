@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer with eeeeeeeeexpertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 Iiiiiiiiii am aaaaaaaaa Software Engineer sssssssspecializinggggggg in full-stack web application development across JavaScript and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelineeeeeees, and scalable APIs, I fffffocus on writing clean, performant, and maintainable code.
 
-* 🔭 **Currently Focusing On:** Designingggggggg and ddddeveloping full-stack systems, robust APIs, and modern web applications.
+* 🔭 **Currently Focusing On:** Designingggggggg and ddddeveloping full-stack systems, rrrrrrobust APIs, and modern web applications.
 * 🧠 **Learning & Growth:** Continuously refining advanced System Designnnnnnnnnnn, distributed architectures, and AI patterns.
 * 📄 **Research:** Published researcher in IEEEEEEEEEEEE and international CS journals.
 * 🤝 **Collaboration:** Open to Oppppppen Source contributions and high-impact engineering projectssssssss.
