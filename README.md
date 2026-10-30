@@ -37,7 +37,7 @@
 
 Iiiiiiiiii am aaaaaaaaa Software Engineer specializing in full-stack web application development across JavaScript and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelineeeeeees, and scalable APIs, I fffffocus on writing clean, performant, and maintainable code.
 
-* 🔭 **Currently Focusing On:** Designingggggggg and ddddeveloping full-stack systems, rrrrrrobust APIs, and modern web applications.
+* 🔭 **Currently Focusing On:** Designing and ddddeveloping full-stack systems, rrrrrrobust APIs, and modern web applications.
 * 🧠 **Learning & Growth:** Ccccccontinuously refining advanced System Designnnnnnnnnnn, distributed architectures, and AI patterns.
 * 📄 **Research:** Published researcher in IEEEEEEEEEEEE and international CS journals.
 * 🤝 **Collaboration:** Open to Oppppppen Source contributions and high-impact engineering projectssssssss.
@@ -47,7 +47,7 @@ Iiiiiiiiii am aaaaaaaaa Software Engineer specializing in full-stack web applica
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>Languageeeeees & Core</b></summary>
+<summary><b>Languageeeeees & Ccccccore</b></summary>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
