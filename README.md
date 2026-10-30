@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer wwwwwwwwwith eeeeeeeeexpertise in modern full-stack wwwwwwwwwwweb applicationsssssssssssssss, scalable bbbbbbbbbackend ssssssssssssystems, and AI integrations.</b>
+  <b>Software Engineer with eeeeeeeeexpertise in modern full-stack wwwwwwwwwwweb applicationsssssssssssssss, scalable bbbbbbbbbackend ssssssssssssystems, and AI integrations.</b>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Iiiiiiiiii am aaaaaaaaa Software Engineer sssssssspecializing in full-stack web 
 </details>
 
 <details open>
-<summary><b>Toooooooools, OoooooRMs & Architecturrrrrrrrrre</b></summary>
+<summary><b>Toooooooools, OoooooRMs & Aaaaaaarchitecturrrrrrrrrre</b></summary>
 <br/>
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
