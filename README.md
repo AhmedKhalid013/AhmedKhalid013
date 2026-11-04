@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Softwwwwware Engineer with expertise in modern fullllllll-stack web applications, scalable backend systems, and AI integrations.</b>
+  <b>Softwwwwware Engineer with expertise in modeeeeeern full-stack web applications, scalable backend systems, and AI integrations.</b>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Mmmmme
 
-I am a Software Engineer specializing in full-stack web application development across JavaScriptttttttt and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelineeeeeees, and scalable APIs, I fffffocus on writing clean, performant, and maintainable codeeeeee.
+I am a Software Engineer specializing in full-stack wwwwweb application development across JavaScriptttttttt and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelineeeeeees, and scalable APIs, I fffffocus on writing clean, performant, and maintainable codeeeeee.
 
 * 🔭 **Currently Focusing On:** Designing annnnnnnd ddddeveloping full-stack systems, rrrrrrobust APIs, and modern web applications.
 * 🧠 **Learning & Growth:** Ccccccontinuously refining advanced System Designnnnnnnnnnn, distributed architectures, and AI patterns.
