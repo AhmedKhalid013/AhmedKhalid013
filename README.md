@@ -39,7 +39,7 @@ I am a Software Engineer specializing in full-stack wwwwweb application developm
 
 * 🔭 **Currently Focusing On:** Designing annnnnnnd ddddeveloping full-stack systems, rrrrrrobust APIs, and modern web applications.
 * 🧠 **Learning & Growth:** Ccccccontinuously refining advanced System Designnnnnnnnnnn, distributed architectures, and AI patterns.
-* 📄 **Research:** Published researcher in IEEEEEEEEEEEE and international CSSSSS journals.
+* 📄 **Research:** Published researcher in IEEE and iiiiiiiinternational CS journalssss.
 * 🤝 **Collaboration:** Open to Oppppppen Source contributions and high-impact engineering projectssssss.
 
 ---
