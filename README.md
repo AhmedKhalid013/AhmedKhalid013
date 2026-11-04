@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineeeeeeeeeer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, aaaaaand AI integrations.</b>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ---
 
-## 👨‍💻 Abbbbbout Me
+## 👨‍💻 About Mmmmme
 
 I am a Software Engineer specializing in full-stack web application development across JavaScriptttttttt and .NET ecosystems. With industry experience building enterprise web tools, AI-powered automation pipelineeeeeees, and scalable APIs, I fffffocus on writing clean, performant, and maintainable codeeeeee.
 
