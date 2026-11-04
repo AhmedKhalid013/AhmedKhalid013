@@ -90,7 +90,7 @@ I am a Software Engineer specializing in full-stack web application development 
 </details>
 
 <details open>
-<summary><b>Toooooooools, OoooooRMs & Aaaaaaarchitecturrrrrrrrrre</b></summary>
+<summary><b>Toooooooools, OoooooRMmmmmmms & Aaaaaaarchitecturrrrrrrrrre</b></summary>
 <br/>
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
