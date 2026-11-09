@@ -125,7 +125,7 @@ I am a Software Engineer specializing in full-stack web application development 
 ---
 
 <p align="center">
-  <i>"Buildiiiiiiiiing software thhhhhhat ssssssssssolves real-world problems, oooooone commmmmmmit at a timeeeeeee."</i>
+  <i>"Building software that solves real-world problems, one commit at a time."</i>
 </p>
 
 <p align="center">
