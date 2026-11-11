@@ -3,7 +3,10 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Ahmed%20Khalid&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&animation=fadeIn" alt="Ahmed Khalid Header"/>
 </p>
-,msdksnkcm mslsldmsl 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+MVC+%7C+Node.js;Building+Scalable+Full-Stack+Systems;AI+Integration+%7C+Vector+Databases+%7C+System+Design;Always+Learning+%26+Building+Something+New" alt="Typing SVG"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+MVC+%7C+Node.js;Building+Scalable+Full-Stack+Systems;AI+Integration+%7C+Vector+Databases+%7C+System+Design;Always+Learning+%26+Building+Something+New" alt="Typing SVG"/>
 </p>
