@@ -120,9 +120,6 @@ I am a Software Engineer specializing in full-stack web application development 
 
 ## 📈 GitHub Analytics
 
-
-## 📈 GitHub Analytics
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedKhalid013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhalid013&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
