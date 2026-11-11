@@ -9,8 +9,12 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer with expertise innnnnnn modern full-stack web applications, scalable backend systems, and AI integrations.</b>
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
 </p>
+
+<p align="center">
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
+</p>sdsdsdsdsdsds
 
 <p align="center">
   <a href="https://linkedin.com/in/iahmedkhalid">
