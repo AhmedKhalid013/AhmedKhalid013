@@ -135,10 +135,6 @@ I am a Software Engineer specializing in full-stack web application development 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedKhalid013&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedKhalid013&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <p align="center">
