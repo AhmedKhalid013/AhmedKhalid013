@@ -146,10 +146,5 @@ I am a Software Engineer specializing in full-stack web application development 
 </p>
 
 <p align="center">
-  <i>"Building software that solves real-world problems, one commit at a time."</i>
-</p>
-
-
-<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:7C3AED" alt="Footer Banner"/>
 </p>
