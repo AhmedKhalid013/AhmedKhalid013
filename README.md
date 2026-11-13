@@ -11,6 +11,11 @@
   <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
 </p>
 
+
+<p align="center">
+  <b>Software Engineer with expertise in modern full-stack web applications, scalable backend systems, and AI integrations.</b>
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/iahmedkhalid">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
