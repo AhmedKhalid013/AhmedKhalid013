@@ -40,6 +40,10 @@
   <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
