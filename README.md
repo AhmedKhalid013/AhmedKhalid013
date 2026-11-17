@@ -28,6 +28,9 @@
   <a href="https://stackoverflow.com/users/10340623">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
   </a>
+    <a href="https://stackoverflow.com/users/10340623">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
 </p>
 
 <p align="center">
