@@ -20,9 +20,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="mailto:ahmedkhalid013@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://stackoverflow.com/users/10340623">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
   </a>
@@ -61,7 +58,7 @@ I am a Software Engineer specializing in full-stack web application development 
 </details>
 
 <details open>
-<summary><b>Frameworkssssss & Web</b></summary>
+<summary><b>Frameworks & Web</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
