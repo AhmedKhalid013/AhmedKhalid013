@@ -32,10 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedKhalid013&label=Profile+Views&style=flat-square&color=2563EB" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -81,7 +77,7 @@ I am a Software Engineer specializing in full-stack web application development 
 </details>
 
 <details open>
-<summary><b>Databassssssses & AIiiiiiiiii Iiiiiiiiintegration</b></summary>
+<summary><b>Databases & AI Integration</b></summary>
 <br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
